@@ -7,4 +7,4 @@ Si vous voulez collaborer sur le projet, n'hésitez pas à me contacter sur Disc
 
 Bonne découverte.
 
-Ce n'est pas fameux, ne vous moquez pas svp T_T
+Ce n'est pas fameux, ne vous moquez pas svp T_T (le programme, je parle)...
