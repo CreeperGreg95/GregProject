@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>publish\</PublishUrlHistory>
+    <InstallUrlHistory>https://ent.go.zd.fr/GregProject/|https://www.terabox.com/disk/home/all%3fvmode=grid&amp;path=%252FGregProject%252FWindowsApp/</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory>https://ent.go.zd.fr/GregProject/|https://www.terabox.com/disk/home/all%3fvmode=grid&amp;path=%252FGregProject%252FWindowsApp/</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>fr-FR</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>
