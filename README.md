@@ -8,3 +8,6 @@ Si vous voulez collaborer sur le projet, n'hésitez pas à me contacter sur Disc
 Bonne découverte.
 
 Ce n'est pas fameux, ne vous moquez pas svp T_T (le programme, je parle)...
+
+Fin du projet : Mercredi 08 février 2023 (14h39 GMT+1)
+Version finale = v.2.7.0.2 (End of the Support Update)
